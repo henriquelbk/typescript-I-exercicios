@@ -1,0 +1,6 @@
+npm init -y (package json standar)
+npm install -D typescript
+npm install -D @types/node (da para juntar com o de cima)
+npx tsc --init
+npx tsc (joga o index.ts para a build, como index.js)
+node build/index.js (executar)
